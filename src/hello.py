@@ -1,1 +1,1 @@
-print("kokak! Hello!~ HWHSHHWHSAHHHWHAHHAHAHAHA")
+print("Hello World!")
